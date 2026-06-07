@@ -1,6 +1,6 @@
 cask "fukujin" do
-  version "1.0"
-  sha256 "f847e434649a620df0c60b11ef2fa8e4d2a9261dd74fbaa36c5a1733759d49a0"
+  version "1.1"
+  sha256 "f22e3d1b5d7be37baf0484674a5bf6cf78d59915d5c0a688a457af025af48c91"
 
   url "https://github.com/s-age/FukuJin/releases/download/v#{version}/FukuJin-#{version}.dmg"
   name "FukuJin"
